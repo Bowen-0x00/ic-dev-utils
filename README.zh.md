@@ -1,3 +1,6 @@
+[![EN](https://img.shields.io/badge/lang-English-blue)](./README.md)
+[![ZH](https://img.shields.io/badge/lang-中文-brightgreen)](./README.zh.md)
+
 # chip-dev-toolbox
 数字IC/处理器开发中的通用工具积累
 
